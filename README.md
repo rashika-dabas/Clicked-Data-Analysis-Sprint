@@ -3,7 +3,7 @@
 - SQLiteStudio Setup Link: https://sqlitestudio.pl/
 - Best resource for Data Visualizations: https://www.data-to-viz.com/
 
-## Project Plan Outline:
+## Project Plan Outline
 ### Steps:
 1. Access and Understand the Data:
 - Connect to the database containing NBA data and access tables. (2 Methods: SQL Magic or Connection Object)
