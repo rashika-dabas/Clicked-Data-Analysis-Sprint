@@ -1,8 +1,7 @@
 # Clicked-Data-Analysis-Sprint
-- Original Dataset Link: https://www.kaggle.com/datasets/wyattowalsh/basketball
-- SQLiteStudio Setup Link: https://sqlitestudio.pl/
-- Best resource for Data Visualizations: https://www.data-to-viz.com/
-
+## Original Dataset Link: https://www.kaggle.com/datasets/wyattowalsh/basketball
+## SQLiteStudio Setup Link: https://sqlitestudio.pl/
+## Best resource for Data Visualizations: https://www.data-to-viz.com/
 ## Project Plan Outline
 ### Steps:
 1. Access and Understand the Data:
@@ -34,3 +33,6 @@
 - Perform SQL Analysis: 6 Aug 2024 to 11 August 2024
 - Generate Insights: 12 August 2024 to 14 August 2024
 - Develop Recommendations: 15 August 2024 to 16 August 2024
+## Certificate
+![Data Analysis   Insights in SQL Mini Sprint](https://github.com/user-attachments/assets/8333030a-30c5-4aec-afd4-c2a6828354d1)
+
