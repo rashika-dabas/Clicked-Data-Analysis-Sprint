@@ -33,6 +33,9 @@
 - Perform SQL Analysis: 6 Aug 2024 to 11 August 2024
 - Generate Insights: 12 August 2024 to 14 August 2024
 - Develop Recommendations: 15 August 2024 to 16 August 2024
-## Certificate
+## Clicked Certificate
 ![Data Analysis   Insights in SQL Mini Sprint](https://github.com/user-attachments/assets/8333030a-30c5-4aec-afd4-c2a6828354d1)
+## IBM SkillsBuild Certificate and Badge
+[Propose Data Driven Insights Using SQL.pdf](https://github.com/user-attachments/files/17034298/Propose.Data.Driven.Insights.Using.SQL.pdf)
 
+![Propose Data Driven Insights Using SQL Badge](https://github.com/user-attachments/assets/ef532ab9-5c48-4091-a775-654776b5ff2f)
